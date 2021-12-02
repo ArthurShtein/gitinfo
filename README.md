@@ -5,3 +5,4 @@ Technologies and Libraries used:
 - Auth0 authentication
 
 Click for live demo:
+https://gitinfoapp.netlify.app/
